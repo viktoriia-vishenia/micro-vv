@@ -1,0 +1,5 @@
+POST http://localhost:8080/realms/micro-vv-realm/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=password&client_id=micro-vv-client&username=viktoria.vi&password=password
+

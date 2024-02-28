@@ -1,2 +1,4 @@
 org\micro\serviceclient\controller\HelloController.class
+org\micro\serviceclient\config\SecurityConfig.class
 org\micro\serviceclient\ServiceClientApplication.class
+org\micro\serviceclient\config\JwtAuthConverter.class

@@ -12,10 +12,13 @@ public class GatewayConfig {
     public RouteLocator routeLocator(RouteLocatorBuilder builder) {
         return builder.routes()
                 .route("client", r -> r
-                        .path("/start/hello")
+                        .path("/start/begin")
                         .uri("lb://eclient"))
                 .route("client", r -> r
-                        .path("/start/login")
+                        .path("/start/user-panel")
+                        .uri("lb://eclient"))
+                .route("client", r -> r
+                        .path("/start/admin-panel")
                         .uri("lb://eclient"))
                 .build();
     }

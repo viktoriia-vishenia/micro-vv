@@ -1,2 +1,4 @@
-C:\Users\User\IdeaProjects\micro-vv\service-client\src\main\java\org\micro\serviceclient\ServiceClientApplication.java
-C:\Users\User\IdeaProjects\micro-vv\service-client\src\main\java\org\micro\serviceclient\controller\HelloController.java
+C:\IdeaProjects\micro-vv\service-client\src\main\java\org\micro\serviceclient\controller\HelloController.java
+C:\IdeaProjects\micro-vv\service-client\src\main\java\org\micro\serviceclient\config\SecurityConfig.java
+C:\IdeaProjects\micro-vv\service-client\src\main\java\org\micro\serviceclient\config\JwtAuthConverter.java
+C:\IdeaProjects\micro-vv\service-client\src\main\java\org\micro\serviceclient\ServiceClientApplication.java
